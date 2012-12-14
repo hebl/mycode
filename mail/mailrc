@@ -1,0 +1,5 @@
+set from=hebl@nao.cas.cn
+set smtp=mail.cstnet.cn
+set smtp-auth-user=hebl@nao.cas.cn
+set smtp-auth-password=passwd
+set smtp-auth=login
