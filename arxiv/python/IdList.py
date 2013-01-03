@@ -34,7 +34,7 @@ def arxivList(list):
         # The abstract is in the <summary> element
         #print 'Abstract: %s' %  entry.summary
 
-#读取文件列表
+#读取文件列表, 输出列表
 
 file = open(sys.argv[1])
 for line in file:
